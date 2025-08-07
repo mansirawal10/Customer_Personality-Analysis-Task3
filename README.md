@@ -26,9 +26,9 @@ We followed a structured approach:
   - Marital status & education-based analysis
 - Filters: Age, Education, Marital status
 
-### ✅ Task 4: Insights for Business Decisions
+### ✅ Step 3: Insights for Business Decisions
 Key insights derived from the dashboard:
-- High-income customers aged 60+ 40–55 are most responsive to campaigns
+- High-income customers aged 45–59 are most responsive to campaigns
 - Wines and meat products have the highest average spending
 - Single and divorced customers tend to spend less than married ones
 - Customers with a Graduate degree showed higher engagement rates
